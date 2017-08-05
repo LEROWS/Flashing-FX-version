@@ -1,2 +1,1 @@
-# Flashing-FX-version
-FX version
+# Flashing FX version
